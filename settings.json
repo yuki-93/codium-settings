@@ -1,0 +1,22 @@
+{
+    "files.autoSave": "onFocusChange",
+    "editor.formatOnSave": true,
+    "editor.renderWhitespace": "boundary",
+    "eslint.alwaysShowStatus": true,
+    "eslint.format.enable": true,
+    "eslint.lintTask.enable": true,
+    "editor.tabSize": 2,
+    "files.exclude": {
+        "**/.git": true,
+        "node_modules": true,
+        "package-lock.json": true
+    },
+    "prettier.eslintIntegration": true,
+    "workbench.colorTheme": "Solarized Light",
+    "workbench.settings.useSplitJSON": true,
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "window.zoomLevel": 0,
+    "javascript.updateImportsOnFileMove.enabled": "always"
+}
